@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  padding: 16px;
+  margin: 0 auto;
+}
+
+.fa {
+  font-size: 25px;
+}
+
+.checked {
+  color: orange;
+}
